@@ -6,6 +6,8 @@
 
 [JavaScript Design Patterns](https://classroom.udacity.com/courses/ud989)
 
+[JavaScript Promises](https://classroom.udacity.com/courses/ud898)
+
 [JavaScript Testing](https://classroom.udacity.com/courses/ud549)
 
 * [JavaScript Tutorial](https://www.sololearn.com/Course/JavaScript/)
