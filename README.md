@@ -1,5 +1,7 @@
 # JavaScript
 
+[Intro to JavaScript](https://www.udacity.com/course/intro-to-javascript--ud803)
+
 [Object-Oriented JavaScript](https://classroom.udacity.com/courses/ud711)
 
 * [JavaScript Tutorial](https://www.sololearn.com/Course/JavaScript/)
