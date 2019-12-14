@@ -4,7 +4,7 @@
 
 [Object-Oriented JavaScript](https://classroom.udacity.com/courses/ud711)
 
-[JavaScript Design Patterns](https://classroom.udacity.com/courses/ud989)
+[JavaScript Design Patterns](https://classroom.udacity.com/courses/ud989) => https://app.pluralsight.com/score
 
 [JavaScript Promises](https://classroom.udacity.com/courses/ud898)
 
