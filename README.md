@@ -1,5 +1,7 @@
 # JavaScript
 
+[Introduction - mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction)
+
 [Intro to JavaScript](https://www.udacity.com/course/intro-to-javascript--ud803)
 
 [Object-Oriented JavaScript](https://classroom.udacity.com/courses/ud711)
