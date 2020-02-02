@@ -1,5 +1,7 @@
 # JavaScript
 
+[JavaScript Basics](https://app.ultimatecourses.com/course/javascript-basics)
+
 [Introduction - mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction)
 
 [Intro to JavaScript](https://www.udacity.com/course/intro-to-javascript--ud803)
