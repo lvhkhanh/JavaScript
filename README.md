@@ -1,5 +1,11 @@
 # JavaScript
 
+https://www.codecademy.com/learn/asynchronous-javascript
+
+https://www.codecademy.com/learn/javascript-errors-debugging
+
+https://www.codecademy.com/learn/learn-javascript-unit-testing
+
 https://www.codecademy.com/learn/build-interactive-websites
 
 [JavaScript Basics](https://app.ultimatecourses.com/course/javascript-basics)
