@@ -8,6 +8,8 @@ https://www.codecademy.com/learn/learn-javascript-unit-testing
 
 https://www.codecademy.com/learn/build-interactive-websites
 
+https://www.codecademy.com/learn/learn-jquery
+
 [JavaScript Basics](https://app.ultimatecourses.com/course/javascript-basics)
 
 [Introduction - mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction)
