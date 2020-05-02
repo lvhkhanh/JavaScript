@@ -2,6 +2,7 @@
 ## Courses
 ### https://codelabs.developers.google.com/codelabs/maps-platform-101-js/index.html?index=..%2F..index
 ### https://codelabs.developers.google.com/codelabs/community-visualization/index.html?index=..%2F..index
+### https://www.codecademy.com/search?query=javascript
 https://www.codecademy.com/learn/asynchronous-javascript
 
 https://www.codecademy.com/learn/javascript-errors-debugging
