@@ -3,6 +3,7 @@
 ### https://www.syncfusion.com/ebooks/ecmascript_6_succinctly
 ### https://www.syncfusion.com/ebooks/javascript
 ## Courses
+### https://app.pluralsight.com/library/courses/cypress-end-to-end-javascript-testing/table-of-contents
 ### https://codelabs.developers.google.com/codelabs/maps-platform-101-js/index.html?index=..%2F..index
 ### https://codelabs.developers.google.com/codelabs/community-visualization/index.html?index=..%2F..index
 ### https://www.codecademy.com/search?query=javascript
