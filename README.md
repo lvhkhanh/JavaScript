@@ -3,6 +3,14 @@
 ### https://www.syncfusion.com/ebooks/ecmascript_6_succinctly
 ### https://www.syncfusion.com/ebooks/javascript
 ## Courses
+### https://www.udacity.com/course/javascript-design-patterns--ud989
+### https://www.udacity.com/course/javascript-testing--ud549
+### https://www.udacity.com/course/es6-javascript-improved--ud356
+### https://www.udacity.com/course/object-oriented-javascript--ud711
+### https://www.udacity.com/course/javascript-promises--ud898
+### https://www.udacity.com/course/asynchronous-javascript-requests--ud109
+### https://www.udacity.com/course/javascript-and-the-dom--ud117
+### https://www.udacity.com/course/intro-to-javascript--ud803
 ### https://app.pluralsight.com/library/courses/cypress-end-to-end-javascript-testing/table-of-contents
 ### https://codelabs.developers.google.com/codelabs/maps-platform-101-js/index.html?index=..%2F..index
 ### https://codelabs.developers.google.com/codelabs/community-visualization/index.html?index=..%2F..index
