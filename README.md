@@ -5,6 +5,7 @@
 ### https://www.syncfusion.com/ebooks/ecmascript_6_succinctly
 ### https://www.syncfusion.com/ebooks/javascript
 ## Courses
+### https://app.ultimatecourses.com/course/javascript-basics
 ### https://www.udacity.com/course/javascript-design-patterns--ud989
 ### https://www.udacity.com/course/javascript-testing--ud549
 ### https://www.udacity.com/course/es6-javascript-improved--ud356
@@ -27,7 +28,7 @@ https://www.codecademy.com/learn/build-interactive-websites
 
 https://www.codecademy.com/learn/learn-jquery
 
-[JavaScript Basics](https://app.ultimatecourses.com/course/javascript-basics)
+
 
 [Introduction - mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction)
 
