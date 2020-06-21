@@ -49,4 +49,16 @@ https://www.codecademy.com/learn/learn-jquery
 
 ```
 .map() over .forEach()
+JSON
+{
+  "status": 200,
+  "statusText": "OK"
+  "message": "Meaning of the response",
+  "data": [
+    {
+      "id": 1,
+      "name": "Text 1"
+    }
+  ]
+}
 ```
