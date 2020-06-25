@@ -9,6 +9,7 @@
 ### https://www.codecademy.com/paths/create-a-back-end-app-with-javascript/tracks/bapi-javascript-fundamentals/modules/intro-to-javascript-for-apis/lessons/introduction-to-javascript/exercises/console
 ### https://www.codecademy.com/paths/create-video-games-with-phaser/tracks/game-dev-learn-javascript-basics/modules/game-dev-learn-javascript-basics/lessons/introduction-to-javascript/exercises/console
 ## Courses
+### https://www.codecademy.com/learn/learn-how-to-code
 ### https://www.codecademy.com/learn/introduction-to-javascript
 ### https://app.ultimatecourses.com/course/javascript-basics
 ### https://www.udacity.com/course/javascript-design-patterns--ud989
