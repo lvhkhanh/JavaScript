@@ -11,6 +11,7 @@
 ## Courses
 ### https://www.codecademy.com/learn/learn-how-to-code
 ### https://www.codecademy.com/learn/introduction-to-javascript
+### https://www.codecademy.com/learn/learn-node-sqlite
 ### https://www.codecademy.com/learn/make-a-website
 ### https://www.codecademy.com/learn/deploy-a-website
 ### https://app.ultimatecourses.com/course/javascript-basics
