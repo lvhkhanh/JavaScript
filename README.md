@@ -5,6 +5,7 @@
 ### https://www.syncfusion.com/ebooks/ecmascript_6_succinctly
 ### https://www.syncfusion.com/ebooks/javascript
 ## Paths
+### https://www.codecademy.com/paths/create-a-back-end-app-with-javascript/tracks/bapi-javascript-fundamentals/modules/intro-to-javascript-for-apis/lessons/introduction-to-javascript/exercises/console
 ### https://www.codecademy.com/paths/create-video-games-with-phaser/tracks/game-dev-learn-javascript-basics/modules/game-dev-learn-javascript-basics/lessons/introduction-to-javascript/exercises/console
 ## Courses
 ### https://app.ultimatecourses.com/course/javascript-basics
