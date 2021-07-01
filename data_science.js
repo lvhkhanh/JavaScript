@@ -1,3 +1,9 @@
+
+function mean(data){
+  // TODO: calculate the average value
+  return average;
+}
+
 function describe(data){
 //   TODO: columns present fields, rows for count, mean, std, min, 25%, 50%, 75%, max
 }
@@ -8,4 +14,8 @@ function percentile(data, percent){
 
 function std(data){
   // TODO: find standard deviation, lower means better
+}
+
+function coefficientOfVariation(data){
+  return std(data) / mean(data);
 }
