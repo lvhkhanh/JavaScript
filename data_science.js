@@ -23,3 +23,7 @@ function coefficientOfVariation(data){
 function variance(data){
   return Math.sqr(data);
 }
+
+function corr(data){
+//   TODO: return correlation matrix
+}
