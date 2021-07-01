@@ -31,3 +31,8 @@ function corr(data){
 function heatmap(data){
   // TODO: visualize data heat map
 }
+
+function f(x, slope, intercept){
+  // y = f(x) = a*x + b
+  return slope * x + intercept;
+}
