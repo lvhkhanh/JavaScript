@@ -5,3 +5,7 @@ function describe(data){
 function percentile(data, percent){
   // TODO: find the value in data that percent% of data is lower than
 }
+
+function std(data){
+  // TODO: find standard deviation, lower means better
+}
