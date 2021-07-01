@@ -19,3 +19,7 @@ function std(data){
 function coefficientOfVariation(data){
   return std(data) / mean(data);
 }
+
+function variance(data){
+  return Math.sqr(data);
+}
