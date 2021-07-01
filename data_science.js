@@ -27,3 +27,7 @@ function variance(data){
 function corr(data){
 //   TODO: return correlation matrix
 }
+
+function heatmap(data){
+  // TODO: visualize data heat map
+}
