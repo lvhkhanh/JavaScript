@@ -1,5 +1,6 @@
 # JavaScript
 ## Certificate
+Learn Intermediate JavaScript
 https://www.codecademy.com/profiles/Khanh.Le Learn Asynchronous JavaScript
 https://www.codecademy.com/profiles/Khanh.Le/certificates/705dcb15de0da4dd9d9fc4f3274b430e Learn JavaScript Course
 ## Versions
