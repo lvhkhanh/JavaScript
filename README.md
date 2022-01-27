@@ -102,3 +102,8 @@ JSON
 ```
 ## Free
 ### https://www.codecademy.com/courses/build-interactive-websites/projects/piano-keys
+## Refs
+### defaultValue for track change
+```
+document.getElementById('textId').defaultValue; // = 'init';
+```
