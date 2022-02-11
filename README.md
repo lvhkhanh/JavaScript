@@ -22,6 +22,10 @@ obj.f = ...; // ok
 string, number, bigint, boolean, undefined, and symbol
 template literals
 `PI: ${PI}`;
+function funcA(){ ... }
+setTimeout(funcA, 500); // how to use function with params => anonymous function, arrow function
+setTimeout(function(){....}, 500);
+setTimeout(() => {....}, 500);
 () => ;
 Promise
 class A extends B {
