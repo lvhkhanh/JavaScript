@@ -1,4 +1,5 @@
 # JavaScript
+## Track changes
 ## Control Keys
 ### F5, F12
 ## Open window, popup, modal
