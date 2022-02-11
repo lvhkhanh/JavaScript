@@ -1,4 +1,6 @@
 # JavaScript
+## Control Keys
+### F5, F12
 ## Certificate
 Learn Intermediate JavaScript
 https://www.codecademy.com/profiles/Khanh.Le Learn Asynchronous JavaScript
