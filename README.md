@@ -27,6 +27,20 @@ setTimeout(funcA, 500); // how to use function with params => anonymous function
 setTimeout(function(){....}, 500);
 setTimeout(() => {....}, 500);
 ! : logical not
+const anArray = [1,2,3];
+anArray.push(4);
+const len = anArray.length;
+delete anArray[2]; // undefined, remove value at index 2, index starts from 0
+anArray.splice(2, 1); // from index 2 remove 1 item
+for (var i=0; i<len; i++){...}
+while(true){...} // remmber to break
+anArray.forEach(item => {});
+anArray.forEach((item, index) => {}); // cannot add break statement
+anArray.find(item => item === "some value")
+anArray.filter(item => item.keyN === "some value") // what different from .find()
+anArray.some(item => item.keyN === "some value") // return boolean check
+anArray.map(item => { item.keyM = "some value"; return item;})
+anArray.reduce((sum,curr) => sum += curr, 0)
 Promise
 class A extends B {
   constructor(p){
