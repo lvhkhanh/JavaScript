@@ -12,7 +12,7 @@ https://www.codecademy.com/profiles/Khanh.Le/certificates/705dcb15de0da4dd9d9fc4
 ```
 let // define variable values block scope vs var global, function scope
 = : assigned Value
-== or === : compare
+== or === : implicit check just value, strict equality type and value
 initialization: declare and assign value
 let aVar = "value A";
 const PI = 3.14; // declare a constant, does not change, must initialize
@@ -26,7 +26,7 @@ function funcA(){ ... }
 setTimeout(funcA, 500); // how to use function with params => anonymous function, arrow function
 setTimeout(function(){....}, 500);
 setTimeout(() => {....}, 500);
-() => ;
+! : logical not
 Promise
 class A extends B {
   constructor(p){
