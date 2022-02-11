@@ -10,8 +10,18 @@ https://www.codecademy.com/profiles/Khanh.Le/certificates/705dcb15de0da4dd9d9fc4
 ## Versions
 ### ES6 2015
 ```
-let
-const
+let // define variable values block scope vs var global, function scope
+= : assigned Value
+== or === : compare
+initialization: declare and assign value
+let aVar = "value A";
+const PI = 3.14; // declare a constant, does not change, must initialize
+const obj = {f: 'f1'};
+obj = ...; // error
+obj.f = ...; // ok
+string, number, bigint, boolean, undefined, and symbol
+template literals
+`PI: ${PI}`;
 () => ;
 Promise
 class A extends B {
