@@ -1,4 +1,5 @@
 # JavaScript
+TODO: check internet connection
 ## Track changes
 ## Control Keys
 ### F5, F12
