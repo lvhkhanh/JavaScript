@@ -135,6 +135,11 @@ JSON
 ```
 ## Free
 ### https://www.codecademy.com/courses/build-interactive-websites/projects/piano-keys
+## Notes
+```
+expression: a.length()
+statement: let a  = '1'
+```
 ## Refs
 ### defaultValue for track change
 ```
